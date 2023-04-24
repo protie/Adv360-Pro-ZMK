@@ -41,7 +41,7 @@
             bindings = <&kp N1>, <&kp N2>, <&kp N3>;
      };
      
-     // single tap=copy, double tap = paste
+     // single tap=copy, double tap = paste, trippe tap = cut
      td1: tap_dance_1 {
             compatible = "zmk,behavior-tap-dance";
             label = "TAP_DANCE_1";
