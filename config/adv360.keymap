@@ -27,8 +27,6 @@
             quick_tap_ms = <175>;
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
-
-            require-prior-idle-ms = <125>;
         };
 
         // example single press = 1, double press =2, tripple press 3
